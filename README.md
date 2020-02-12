@@ -42,6 +42,9 @@
 
 ## Other Experiences
 
+- Develop [Goondori](http://onelink.to/goondori) Application (2018.09 ~ )
+  - React Native, Typescript
+  - 240K Installs (2020.02)
 - [Nebulas](https://nebulas.io/) (2018.06 ~  2018.08)
   -  Korean Ambassador
 
