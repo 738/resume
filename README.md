@@ -28,6 +28,7 @@
 
 ### Pull Requests
 
+- dotansimha/graphql-code-generator: [PR #3505](https://github.com/dotansimha/graphql-code-generator/pull/3505)
 - kubernetes/website: [PR #19021](https://github.com/kubernetes/website/pull/19021)
 - yangshun/front-end-interview-handbook: [PR #221](https://github.com/yangshun/front-end-interview-handbook/pull/221)
 - software-mansion/react-native-reanimated: [PR #418](https://github.com/software-mansion/react-native-reanimated/pull/418)
