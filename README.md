@@ -6,14 +6,18 @@
 
 - Javascript, ES6, Typescript
 - React, React Native
-- Node.js, Express
+- Node.js, Express, GraphQL
 
 ## Work Experiences
 
 - [Naver](https://naver.com) (2020.01 ~ )
   - Software Engineer Intern
+  - Developing Search Ads Center
+  - React, Typescript, Node.js, GraphQL, Apollo
 - [Finda](https://finda.co.kr) (2017.11 ~ 2019.07)
   - Full-Stack Developer
+  - Developing Finda Web(https://finda.co.kr) - financial products comparison and recommendation service
+  - React, Typescript, Node.js, Express
 
 ## Open Source Contributions
 
