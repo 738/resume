@@ -28,6 +28,7 @@
 
 ### Pull Requests
 
+- graphql/express-graphql: [PR #585](https://github.com/graphql/express-graphql/pull/585)
 - dotansimha/graphql-code-generator: [PR #3505](https://github.com/dotansimha/graphql-code-generator/pull/3505)
 - kubernetes/website: [PR #19021](https://github.com/kubernetes/website/pull/19021)
 - yangshun/front-end-interview-handbook: [PR #221](https://github.com/yangshun/front-end-interview-handbook/pull/221)
