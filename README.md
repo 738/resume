@@ -10,7 +10,7 @@
 
 ## Work Experiences
 
-- [Naver](https://naver.com) (2020.01 ~ )
+- [Naver](https://naver.com) (2020.01 ~ 2020.02)
   - Software Engineer Intern
   - Developing Search Ads Center
   - React, Typescript, Node.js, GraphQL, Apollo
