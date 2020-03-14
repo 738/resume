@@ -28,6 +28,7 @@
 
 ### Pull Requests
 
+- zoontek/react-native-bootsplash: [PR #69](https://github.com/zoontek/react-native-bootsplash/pull/69), [PR #74](https://github.com/zoontek/react-native-bootsplash/pull/74)
 - graphql/express-graphql: [PR #585](https://github.com/graphql/express-graphql/pull/585)
 - dotansimha/graphql-code-generator: [PR #3505](https://github.com/dotansimha/graphql-code-generator/pull/3505), [PR #3522](https://github.com/dotansimha/graphql-code-generator/pull/3522)
 - kubernetes/website: [PR #19021](https://github.com/kubernetes/website/pull/19021)
