@@ -2,6 +2,8 @@
 
 > I Love Javascript, Open Source.
 
+I am Full-Stack Developer, but I like Front-end more.
+
 ## Skill Stack
 
 - Javascript, ES6, Typescript
