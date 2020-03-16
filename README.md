@@ -1,4 +1,4 @@
-# [`Jon Jee`](https://jonjee.me/)
+# `Junwoo Ji (Jon Jee)`
 
 > I Love Javascript, Open Source.
 
