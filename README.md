@@ -88,3 +88,5 @@ I am Full-Stack Developer, but I like Front-end more.
 - [Blog](https://blog.holy.kiwi)
 - [LinkedIn](https://www.linkedin.com/in/junwooji/)
 - [Mail](mailto:iam@holy.kiwi)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2Fresume)](https://hits.seeyoufarm.com)
