@@ -76,6 +76,7 @@ I am Full-Stack Developer, but I like Front-end more.
 
 ## Translation Works (en-ko)
 
+- [clean-code-typescript](https://github.com/738/clean-code-typescript)
 - [Nested Dependencies](https://blog.holy.kiwi/translate/nested-dependencies/)
 
 ## Other Experiences
