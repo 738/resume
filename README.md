@@ -12,7 +12,7 @@ I am Full-Stack Developer, but I like Front-end more.
 
 ## Work Experiences
 
-- [Naver](https://naver.com) (2020.07 ~ ) - scheduled
+- [Naver](https://naver.com) (2020.07 ~ )
   - Front-end Engineer
 - [Naver](https://naver.com) (2020.01 ~ 2020.02)
   - Software Engineer Intern
