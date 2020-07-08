@@ -33,11 +33,11 @@ I am Full-Stack Developer, but I like Front-end more.
 - [Goondori](http://onelink.to/goondori) (2018.09 ~ )
   - React Native, Typescript, MobX
   - Korean Military Service Tracker Mobile Application (Android, iOS)
-  - 320K Installs (2020.05)
+  - 380K Installs (2020.07)
 - [inko.js](https://inko.js.org) (2018.05 ~ )
   - Javascript, Typescript, Gulp
   - Open Source Library, Converting Misspelled English characters into Korean letters (& vice versa)
-  - 1.6K Downloads/Month in NPM (2020.03)
+  - 2K Downloads/Month in NPM (2020.07)
 - [Playground](https://plgr.netlify.com) (2019.08 ~ 2019.10)
   - Typescript, React, Mobx, Node.js, Express, Serverless, AWS DynamoDB, AWS Lambda
   - Web Dashboard that can be extended by plugin
