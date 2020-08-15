@@ -54,6 +54,7 @@ I am Full-Stack Developer, but I like Front-end more.
 
 - [inko.js](https://github.com/738/inko) Maintainer
 - [awesome-apple-watch](https://github.com/738/awesome-apple-watch) Maintainer
+- [awesome-sushi](https://github.com/738/awesome-sushi) Maintainer
 
 ### Pull Requests
 
